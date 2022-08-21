@@ -1,2 +1,2 @@
 # vpc-lambda-efs-
-a base vac build with lambda application running efs
+a base vpc build with lambda application running efs
